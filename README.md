@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @polooner
-- 
-- 👀 I’m interested in Web Development and AI
-- 🌱 I’m currently mastering JavaScript for Web Development and foundamentals of Python.
-- 💞️ I’m looking to collaborate on Web Apps
+#👋 Hi, I’m @polooner
+##Indie hacker, Computer Science student
+
+##### Vercel and TypeScript is my aesthetic
 
 <!---
 polooner/polooner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
