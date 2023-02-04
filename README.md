@@ -1,5 +1,5 @@
-#👋 Hi, I’m @polooner
-##Indie hacker, Computer Science student
+# 👋 Hi, I’m @polooner
+## Indie hacker, Computer Science student
 
 ##### Vercel and TypeScript is my aesthetic
 
