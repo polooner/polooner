@@ -1,6 +1,7 @@
 # 👋 Hi, I’m @polooner
 ## Solo founder aiming to make the world more sustainable through easing difficult processes
 
+[Wojda Labs on TikTok](https://www.tiktok.com/@wojda_labs)
 
 
 <!---
