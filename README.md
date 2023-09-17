@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @polooner
-## Indie hacker, Computer Science student
+## Solo founder aiming to make the world more sustainable through easing difficult processes
 
-##### Vercel and TypeScript is my aesthetic
+
 
 <!---
 polooner/polooner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
