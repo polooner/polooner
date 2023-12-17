@@ -3,7 +3,7 @@
 I like to build things. A lot of things! But AI centric.
 Researching **Three Dimensional Reconstruction of Medical Images** @ [CUNY's CRSP](https://www.cuny.edu/research/research-development-programs/student-programs/undergraduate-programs/cuny-research-scholars-program/).
 
-[Follow me on TikTok!](https://www.tiktok.com/@wojda_labs)
+[Follow me on Twitter (x)](https://twitter.com/filip_w000)
 
 
 <!---
